@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+dbconnection.py
+__pycache__
 
 # testing
 /coverage
