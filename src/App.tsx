@@ -1,6 +1,7 @@
 import './App.css';
 
 function App() {
+  console.log('Who AM I?')
   return (
     <div>
       <header>        
