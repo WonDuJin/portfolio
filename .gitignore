@@ -6,6 +6,7 @@
 .pnp.js
 dbconnection.py
 __pycache__
+dist
 
 # testing
 /coverage
