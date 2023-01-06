@@ -1,12 +1,14 @@
-const check = ()=>{
-  console.log("나는 뉴구?")
-  return (
+import Senario from "./components/senario"
+import React from "react";
+
+const App = () =>{
+  
+  return(
     <>
-      <div>나는 뉴규?</div>
+      <Senario/>
+
     </>
   )
 }
 
-check()
-
-export default check;
+export default App;
